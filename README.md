@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-sagrada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Pasión sagrada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-sagrada/) |
+| **Get License** | [Get License For Pasión sagrada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-sagrada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, la noche es nuestra y no hay vuelta atrás
+> Ese ritmo que tienes me pide más y más
+> Bailando en lo oscuro, rozando tu piel
+> Soy un adicto a tu boca, sabiendo a miel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
