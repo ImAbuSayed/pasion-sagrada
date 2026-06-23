@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-sagrada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Pasión sagrada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-sagrada/) |
+| **Get License** | [Official Music Licensing for Pasión sagrada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-sagrada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0c57b72b08fab52083d79ab2d102ca724cd0ada427653d90bc1a0aca32a0398e` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

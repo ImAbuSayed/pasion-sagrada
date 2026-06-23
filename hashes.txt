@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión sagrada
+
+This log tracks the cryptographic history and versioning for the song **Pasión sagrada** (pasion-sagrada).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T11:49:24.260601 | `v1` | `0c57b72b08fab52083d79ab2d102ca724cd0ada427653d90bc1a0aca32a0398e` | `c2a851a9089fdadac87ed0b1ce2c94251cb88419c9f15582b287944ff6a658ca` | `2026-06-23_pasion-sagrada-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
